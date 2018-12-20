@@ -128,3 +128,7 @@ gradle-app.setting
 **/build/
 
 # End of https://www.gitignore.io/api/java,gradle,intellij
+.settings/org.eclipse.buildship.core.prefs
+.classpath
+.settings/org.eclipse.core.resources.prefs
+.project
